@@ -1,5 +1,5 @@
 ## Hello there!👋
-Welcome to my profile! Yes I have nothing to show but I assure you that I am working on it... soon... hopefully :trollface: <br>
+Welcome to my profile! Yes I have nothing to show but I assure you that I am working on it soon... hopefully :trollface: <br>
 
 Status: Procrastinating 🤔<br>
 
