@@ -1,5 +1,10 @@
-### Hi there 👋
-[School Account (Singapore Polytechnic)](https://github.com/PhilipLeong)
+### Procrastinating
+I have nothing to show for but i assure you that I am working on it... soon... hopefully
+
+
+[Old School Account](https://github.com/PhilipLeong)
+
+
 <!--
 **philipljh/philipljh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
