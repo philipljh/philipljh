@@ -1,4 +1,4 @@
-### Hello there! I am a random lazy dude
+### Hello there!
 Status: Procrastinating 🤔
 I have nothing to show for but i assure you that I am working on it... soon... hopefully
 
