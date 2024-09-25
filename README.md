@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Philip Leong</h1>
-<h3 align="center">An aspiring Software Developer</h3>
-
----
-
 ### Languages and Tools:
 
 #### Software Development:
@@ -66,8 +61,6 @@
   </a> 
 </p>
 
----
-
 #### Data Analytics:
 <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -84,8 +77,6 @@
   </a> 
 </p>
 
----
-
 #### Other Tools:
 <p align="left">
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
@@ -99,7 +90,6 @@
   </a> 
 </p>
 
----
 
 ### GitHub Stats:
 <p align="left">
@@ -113,8 +103,6 @@
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philipljh&" alt="GitHub Streak Stats" />
 </p>
-
----
 
 ### Connect with me:
 <p align="left">
