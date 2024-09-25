@@ -1,19 +1,18 @@
-## Hello there!👋
-Welcome to my profile! 
+# Hi there! 👋 Welcome to my GitHub profile!
 
-<a href="https://github.com/PhilipLeong" target="_blank"><img height="25" src="https://img.shields.io/badge/GitHub-Old%20School%20Account-blue"></a>&nbsp;&nbsp;
+I'm **Philip Leong**, an aspiring software developer.
 
-<!--
-**philipljh/philipljh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### GitHub Stats:
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philipljh&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=philipljh&layout=compact&theme=radical)
+
+### Contributions and Streaks:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=philipljh&theme=radical)
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/philipljh/)
