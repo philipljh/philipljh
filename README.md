@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Philip, a passionate developer with a keen interest in Software Engineering, Data Science, and Finance. With experience spanning various domains of tech, I strive to blend analytical thinking and creative problem-solving to build robust, efficient, and impactful solutions. My journey has taken me through diverse projects, ranging from scalable web applications to data-driven insights and managing my own equities portfolio.
+I'm Philip, a passionate developer with a keen interest in Software Engineering, Data Science, and Finance.
 
 ### GitHub Stats:
 <p align="left">
