@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Philip, a passionate developer with a keen interest in Software Engineering, Data Science, and Finance.
+I'm Philip, a passionate developer with a keen interest in Software Engineering and Machine Learning.
 
 ### GitHub Stats:
 <p align="left">
